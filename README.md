@@ -1,0 +1,2 @@
+# szakkor
+Programozás szakkör 
